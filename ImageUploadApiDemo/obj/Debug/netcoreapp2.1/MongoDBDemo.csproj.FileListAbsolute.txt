@@ -1,0 +1,14 @@
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\bin\Debug\netcoreapp2.1\MongoDBDemo.deps.json
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\bin\Debug\netcoreapp2.1\MongoDBDemo.runtimeconfig.json
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\bin\Debug\netcoreapp2.1\MongoDBDemo.runtimeconfig.dev.json
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\bin\Debug\netcoreapp2.1\MongoDBDemo.dll
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\obj\Debug\netcoreapp2.1\MongoDBDemo.csprojAssemblyReference.cache
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\obj\Debug\netcoreapp2.1\MongoDBDemo.csproj.CoreCompileInputs.cache
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\obj\Debug\netcoreapp2.1\MongoDBDemo.RazorAssemblyInfo.cache
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\obj\Debug\netcoreapp2.1\MongoDBDemo.RazorAssemblyInfo.cs
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\obj\Debug\netcoreapp2.1\MongoDBDemo.AssemblyInfoInputs.cache
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\obj\Debug\netcoreapp2.1\MongoDBDemo.AssemblyInfo.cs
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\obj\Debug\netcoreapp2.1\MongoDBDemo.RazorTargetAssemblyInfo.cache
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\bin\Debug\netcoreapp2.1\MongoDBDemo.pdb
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\obj\Debug\netcoreapp2.1\MongoDBDemo.dll
+E:\aspnetcore2.0\MongoDBDemo\MongoDBDemo\obj\Debug\netcoreapp2.1\MongoDBDemo.pdb
